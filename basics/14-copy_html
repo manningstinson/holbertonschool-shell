@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -i file1 file2 ..
+cp -i mv file... directory
