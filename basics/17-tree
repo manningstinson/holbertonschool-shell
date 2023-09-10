@@ -1,2 +1,2 @@
-#!/bib/bash
+#!/bin/bash
 mkdir ./welcome ./wlecome/to ./welcoome/to/school 
