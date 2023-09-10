@@ -1,2 +1,2 @@
 #!/bin/bash
-cp file1 dir1
+cp -i dir 1 dir 2
