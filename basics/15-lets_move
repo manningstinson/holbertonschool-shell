@@ -1,2 +1,2 @@
 #!/bin/bash
-mv file [:upper:]* dir /tmp/u 
+mv [A-Z]* /tmp/u 
