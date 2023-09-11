@@ -1,20 +1,15 @@
 README file for BASICS folder
 
-0-current_working_directory
-1-listit
-2-bring_me_home
-3-listfiles
-4-listmorefiles
-5-listfilesdigitonly
-6-firstdirectory
-7-movethatfile
-8-firstdelete
-9-firstdirdeletion
-10-back
-11-lists
-12-file_type
-13-symbolic_link
-14-copy_html
-15-lets_move
-16-clean_emacs
-17-tree
+This is a read me file for Holberton School (holbertonschool-shell) permissions project.
+
+For future reference, and to assist in my learning I have put together a google sheet.  This google sheet contains the scripts I used, descirptions, and project task reference. I have made the file available for viewing using the below link. This spreadsheet will get updated as the course/projects progress.
+
+You can view it here.
+
+https://docs.google.com/spreadsheets/d/1AeWttw5h7J9bsAWMB5Kc0rJoBbrPBxxiCySiD5vZWXY/edit?usp=sharing
+
+I have duplicated these same notes, in both the project root folder (holbertonschool-shell), and sub-directories  basics, and permissions.
+
+Please let me know if you have any questions.
+
+
