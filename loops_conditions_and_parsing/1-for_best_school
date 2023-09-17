@@ -2,5 +2,5 @@
 # This script displays BEST SCHOOL 10 times. 
 for i in {1..10}
 do
-   echo "Best $i School"
+   echo "Best  School"
 done
