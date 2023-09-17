@@ -4,7 +4,7 @@
 #!/bin/bash
 
 x=0
-until [ $x -gt 10 ]
+until [ $x -gt 9 ]
 	do
 	echo "Best School"
 	((x++))
