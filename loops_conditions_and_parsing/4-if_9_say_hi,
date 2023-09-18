@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#Creating a script that displays Best School for 9 times and Hi for the 10th.
+#Creating a script that displays "Best School" for 9 times and  "Hi" on the 10th
 
 x=1
 while [ $x -le 10 ]
