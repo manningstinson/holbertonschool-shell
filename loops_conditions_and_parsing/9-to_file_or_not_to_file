@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #Creating a script with nested if statements with a file called holberton school
 
-file="holbertonschool"
+file="school"
 if [ -e $file ]
 then
     echo "$file file exists"
