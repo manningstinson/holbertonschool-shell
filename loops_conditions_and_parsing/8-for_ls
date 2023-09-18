@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+#Creating a script that lists current dir, list, part of name
+for i in *
+do
+    echo "$i" | cut -f 2- -d '-'
+done
