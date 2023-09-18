@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#Creating a script with nested if statements with a file called holberton schoo
+#Creating a script with nested if statements with a file called holberton school
 
 file="holbertonschool"
 if [ -e $file ]
@@ -20,3 +20,4 @@ then
 else
     echo "$file file does not exist"
 fi
+
