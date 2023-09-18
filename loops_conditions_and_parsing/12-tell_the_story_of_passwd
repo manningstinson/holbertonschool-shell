@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
-#Displays the content of fthe file /etc/passwd
+#Displays the content of fthe file etc/passwd
+
+#!/usr/bin/env bash
+#Script that displays the content of the file /etc/passwd
 while IFS= read -r line
 do
     username=$(echo "$line" | cut -f 1 -d ':')
@@ -15,4 +18,4 @@ do
     echo -n "lives in $home and rides $command."
     echo -n " $userID's place is protected by the passcode $password, "
     echo "more info about the user here: $userINFO"
-done < "/etc/passwd"
+done < "/etc/passwd"i
