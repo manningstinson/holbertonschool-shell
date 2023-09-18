@@ -1,14 +1,20 @@
 #!/usr/bin/env bash
-#Creating a script that uses a nested loop for a clock
-hour=0
-while [ $hour -le 12 ]
+#Creating a script that use a while loop, and case statement
+
+x=1
+while [ $x -le 20 ]
 do
-    echo "Hour: $hour"
-    minutes=1
-    while [ $minutes -lt 60 ]
-    do
-	echo "$minutes"
-	((minutes++))
-    done
-    ((hour++))
+    echo "$x"
+    case $x in
+	4)
+	    echo "bad luck from China"
+	    ;;
+	9)
+	    echo "bad luck from Japan"
+	    ;;
+	17)
+	    echo "bad luck from Italy"
+	    ;;
+    esac
+    ((x++))
 done
