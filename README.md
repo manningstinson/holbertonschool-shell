@@ -1,6 +1,6 @@
 <img width="1280" alt="4CF5B430-4195-4C7F-A454-DBAA53BC23D0" src="https://github.com/manningstinson/holbertonschool-shell/assets/104523090/10458f1d-21db-46fc-8d89-bcf8d5c909ec">
 
-# Holbertonschool | Linux Shell Project
+# Holberton School | Linux Shell Project
 
 This is a read me file for Holberton School (holbertonschool-shell) permissions project.
 
